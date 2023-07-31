@@ -1,0 +1,5 @@
+[INFO] info log
+[WARNING] warning log
+[ERROR] error log
+[DEBUG] debug log
+[CRITICAL] critical log
